@@ -1,0 +1,49 @@
+<div class="header">LEVEL UP</div>
+<div class="grid-container">
+  <mat-card *ngFor="let developer of developers" class="section">
+    <div class="card-header">
+      <div class="dev-name">{{developer.name}}</div>
+      <div class="dev-count">{{developer.count}}</div>
+    </div>
+
+
+    <div class="card-padding">
+      <div class="repo-row">REPO: <a href="{{developer.repo}}" class="info repo">{{developer.repo}}</a></div>
+
+      <div>
+        PROJECTS:
+        <div class="projects">
+          <div class="project" *ngFor="let project of developer.projects">
+            <span class="project-title">{{project.name}}: </span> {{project.url}}</div>
+          </div>
+      </div>
+    </div>
+  </mat-card>
+</div>
+
+<!--<mat-grid-list cols="2" rowHeight="350px">-->
+<!--<mat-grid-tile *ngFor="let developer of developers">-->
+<!--<mat-card class="dashboard-card">-->
+<!--<mat-card-header>-->
+<!--<mat-card-title>-->
+<!--{{developer.name}}-->
+<!--<button mat-icon-button class="more-button" [matMenuTriggerFor]="menu" aria-label="Toggle menu">-->
+<!--{{developer.count}}-->
+<!--</button>-->
+<!--<mat-menu #menu="matMenu" xPosition="before">-->
+<!--<button mat-menu-item>Expand</button>-->
+<!--<button mat-menu-item>Remove</button>-->
+<!--</mat-menu>-->
+<!--</mat-card-title>-->
+<!--</mat-card-header>-->
+<!--<mat-card-content class="dashboard-card-content">-->
+<!--<div>{{developer.repo}}</div>-->
+<!--<div *ngFor="let projects of developer.projects">-->
+<!--<div>{{projects.name}}</div>-->
+<!--</div>-->
+<!--</mat-card-content>-->
+<!--</mat-card>-->
+
+
+<!--</mat-grid-tile>-->
+<!--</mat-grid-list>-->

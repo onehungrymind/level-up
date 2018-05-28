@@ -1,0 +1,51 @@
+.grid-container {
+  width: 1500px;
+  margin: auto;
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.info {
+  float: right;
+}
+
+.projects {
+  padding-top: 20px;
+}
+
+.project {
+  padding: 10px;
+}
+
+.project-title {
+  font-weight: bold;
+}
+
+.repo-row {
+  margin-bottom: 20px;
+}
+
+.card-padding {
+  padding: 20px;
+  color: #666666;
+}
+
+.dashboard-card {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+}
+
+.more-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.dashboard-card-content {
+  text-align: center;
+}
