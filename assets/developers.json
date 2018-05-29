@@ -17,15 +17,11 @@
   {
     "name": "Jon",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
+    "count": 1,
     "projects": [
       {
         "name": "Star Wars API",
         "url": "http://star-wars-api.surge.sh/"
-      },
-      {
-        "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
       }
     ]
   },
