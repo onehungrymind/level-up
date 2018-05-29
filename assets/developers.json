@@ -14,20 +14,6 @@
     ]
   },
   {
-    "name": "Jon",
-    "repo": "http://star-wars-api.surge.sh/",
-    "projects": [
-      {
-        "name": "Star Wars API",
-        "url": "http://star-wars-api.surge.sh/"
-      },
-      {
-        "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
-      }
-    ]
-  },
-  {
     "name": "Victor",
     "repo": "https://github.com/VicAv99/Level-Up.git",
     "projects": [
