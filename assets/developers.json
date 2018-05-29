@@ -31,16 +31,24 @@
   },
   {
     "name": "Victor",
-    "repo": "http://star-wars-api.surge.sh/",
+    "repo": "https://github.com/VicAv99/Level-Up.git",
     "count": 2,
     "projects": [
       {
-        "name": "Star Wars API",
-        "url": "http://star-wars-api.surge.sh/"
+        "name": "YouTube API",
+        "url": "http://youtube-api-app.surge.sh/"
+      },
+      {
+        "name": "Twitter API",
+        "url": "http://twitter-app.surge.sh/"
+      },
+      {
+        "name": "StarWars API",
+        "url": "http://starwars-api-app.surge.sh/"
       },
       {
         "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
+        "url": "http://poke-app.surge.sh/"
       }
     ]
   },
