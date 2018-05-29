@@ -59,21 +59,17 @@
       },
       {
         "name": "Pokemon API",
-        "url": "http://pokeapi.surge.sh/"
+        "url": "http://poke-api.surge.sh/"
       }
     ]
   },
   {
     "name": "Yoshi",
-    "repo": "http://star-wars-api.surge.sh/",
+    "repo": "http://venturtube.surge.sh/",
     "projects": [
       {
-        "name": "Star Wars API",
-        "url": "http://star-wars-api.surge.sh/"
-      },
-      {
-        "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
+        "name": "Youtube API",
+        "url": "http://venturtube.surge.sh/"
       }
     ]
   },
