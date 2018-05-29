@@ -2,7 +2,6 @@
   {
     "name": "Micah",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
@@ -17,7 +16,6 @@
   {
     "name": "Jon",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
@@ -31,23 +29,29 @@
   },
   {
     "name": "Victor",
-    "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
+    "repo": "https://github.com/VicAv99/Level-Up.git",
     "projects": [
       {
-        "name": "Star Wars API",
-        "url": "http://star-wars-api.surge.sh/"
+        "name": "YouTube API",
+        "url": "http://youtube-api-app.surge.sh/"
+      },
+      {
+        "name": "Twitter API",
+        "url": "http://twitter-app.surge.sh/"
+      },
+      {
+        "name": "StarWars API",
+        "url": "http://starwars-api-app.surge.sh/"
       },
       {
         "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
+        "url": "http://poke-app.surge.sh/"
       }
     ]
   },
   {
     "name": "Josh",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
@@ -62,7 +66,6 @@
   {
     "name": "Blaise",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
@@ -77,7 +80,6 @@
   {
     "name": "Yoshi",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
@@ -92,7 +94,6 @@
   {
     "name": "Chris",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
@@ -107,7 +108,6 @@
   {
     "name": "Kenny",
     "repo": "http://star-wars-api.surge.sh/",
-    "count": 2,
     "projects": [
       {
         "name": "Star Wars API",
