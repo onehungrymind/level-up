@@ -50,10 +50,6 @@
     "repo": "http://star-wars-api.surge.sh/",
     "projects": [
       {
-        "name": "Star Wars API",
-        "url": "http://star-wars-api.surge.sh/"
-      },
-      {
         "name": "Pokemon API",
         "url": "http://pokeapi.surge.sh/"
       }
