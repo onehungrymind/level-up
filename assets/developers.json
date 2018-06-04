@@ -71,15 +71,11 @@
   },
   {
     "name": "Chris",
-    "repo": "http://star-wars-api.surge.sh/",
+    "repo": "https://github.com/aklukas/levelup.git",
     "projects": [
       {
-        "name": "Star Wars API",
-        "url": "http://star-wars-api.surge.sh/"
-      },
-      {
-        "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
+        "name": "u-tuber",
+        "url": "https://u-tuber.surge.sh"
       }
     ]
   },
