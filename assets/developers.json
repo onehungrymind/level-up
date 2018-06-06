@@ -74,8 +74,12 @@
     "repo": "https://github.com/aklukas/levelup.git",
     "projects": [
       {
-        "name": "u-tuber",
-        "url": "https://u-tuber.surge.sh"
+        "name": "Youtube API",
+        "url": "http://u-tuber.surge.sh/"
+      },
+      {
+        "name": "Developers API",
+        "url": "http://next-level.surge.sh/"
       }
     ]
   },
