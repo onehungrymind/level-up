@@ -40,6 +40,10 @@
       {
         "name": "NgSpot",
         "url": "https://ng-spot.surge.sh/"
+      },
+      {
+        "name": "iSearch",
+        "url": "https://isearch-it.surge.sh/"
       }
     ]
   },
