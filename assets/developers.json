@@ -65,7 +65,7 @@
   },
   {
     "name": "Yoshi",
-    "repo": "http://venturtube.surge.sh/",
+    "repo": "https://github.com/Kolomonkey/leveluprepo",
     "projects": [
       {
         "name": "Youtube API",
