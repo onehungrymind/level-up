@@ -59,7 +59,7 @@
       },
       {
         "name": "Pokemon API",
-        "url": "http://poke-api.surge.sh/"
+        "url": "http://pokeapi.surge.sh/"
       }
     ]
   },
