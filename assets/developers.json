@@ -19,7 +19,7 @@
     "projects": [
       {
         "name": "YouTube API",
-        "url": "http://youtube-api-app.surge.sh/"
+        "url": "https://youtube-api-app.surge.sh/"
       },
       {
         "name": "Twitter API",
@@ -27,11 +27,23 @@
       },
       {
         "name": "StarWars API",
-        "url": "http://starwars-api-app.surge.sh/"
+        "url": "https://starwars-api-app.surge.sh/"
       },
       {
         "name": "Pokemon API",
-        "url": "http://poke-app.surge.sh/"
+        "url": "https://poke-app.surge.sh/"
+      },
+      {
+        "name": "Venturbook",
+        "url": "https://venturbook.surge.sh/"
+      },
+      {
+        "name": "NgSpot",
+        "url": "https://ng-spot.surge.sh/"
+      },
+      {
+        "name": "iSearch",
+        "url": "https://isearch-it.surge.sh/"
       }
     ]
   },
