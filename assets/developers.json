@@ -88,6 +88,10 @@
       {
         "name": "Developers API",
         "url": "http://next-level.surge.sh/"
+      },
+      {
+        "name": "Star Wars API",
+        "url": "https://swapi_wookie.surge.sh/"
       }
     ]
   },
