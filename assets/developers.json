@@ -44,6 +44,10 @@
       {
         "name": "iSearch",
         "url": "https://isearch-it.surge.sh/"
+      },
+      {
+        "name": "Omdb",
+        "url": "http://omd-b.surge.sh/
       }
     ]
   },
