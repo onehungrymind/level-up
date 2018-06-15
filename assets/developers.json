@@ -101,11 +101,11 @@
   },
   {
     "name": "Kenny",
-    "repo": "http://star-wars-api.surge.sh/",
+    "repo": "",
     "projects": [
       {
-        "name": "Starter Master Detail",
-        "url": "forthcoming"
+        "name": "YouTube API",
+        "url": "https://youtube-api-ken.surge.sh/"
       }
     ]
   }
