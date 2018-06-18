@@ -52,6 +52,10 @@
       {
         "name": "Football",
         "url": "https://football-not-soccer.surge.sh/"
+      }, 
+      {
+        "name": "G-Books",
+        "url": "https://g-books.surge.sh/"
       }
     ]
   },
