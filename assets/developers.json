@@ -48,6 +48,10 @@
       {
         "name": "Omdb",
         "url": "http://omd-b.surge.sh/"
+      },
+      {
+        "name": "Football",
+        "url": "https://football-not-soccer.surge.sh/"
       }
     ]
   },
