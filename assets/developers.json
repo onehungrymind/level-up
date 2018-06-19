@@ -56,6 +56,10 @@
       {
         "name": "G-Books",
         "url": "https://g-books.surge.sh/"
+      },
+      {
+        "name": "AirQ",
+        "url": "https://airque.surge.sh/"
       }
     ]
   },
