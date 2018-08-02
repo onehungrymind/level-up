@@ -10,6 +10,14 @@
       {
         "name": "Pokemon API",
         "url": "http://poke-api.surge.sh/"
+      },
+      {
+        "name": "Pokemon (Form)",
+        "url": "http://gotta-catch-em-all.surge.sh/"
+      },
+      {
+        "name": "Population API",
+        "url": "http://population-api.surge.sh/"
       }
     ]
   },
