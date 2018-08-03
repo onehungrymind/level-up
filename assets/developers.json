@@ -18,6 +18,10 @@
       {
         "name": "Population API",
         "url": "http://population-api.surge.sh/"
+      },
+      {
+        "name": "Rocket API",
+        "url": "rocket-api.surge.sh/"
       }
     ]
   },
